@@ -101,3 +101,30 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+.presentation {
+    padding: 4rem 0;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.presentation h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #007bff;
+}
+
+.presentation p {
+    font-family: 'Open Sans', sans-serif;
+    color: #6c757d;
+}
+
+.presentation .btn-primary {
+    background-color: black;
+    border-color: black;
+}
+
+    .presentation .btn-primary:hover {
+        background-color: orange;
+        border-color: #004085;
+        color: black
+    }
